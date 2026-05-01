@@ -172,25 +172,6 @@
 
 ---
 
-## 📈 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshpatil077&theme=tokyo-night&bg_color=1a1a2e&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Riteshpatil077&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</p>
-
-<br/>
-
----
 
 ## 💡 What I'm Up To
 

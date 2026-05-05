@@ -186,19 +186,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riteshpatil077&show_icons=true&theme=tokyonight&border_color=6366f1&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Riteshpatil077&theme=tokyonight&border_color=6366f1"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshpatil077&layout=compact&theme=tokyonight&border_color=6366f1"/>
-</div>
-
-<br/>
-
 ---
 
 ## 💡 What I'm Up To

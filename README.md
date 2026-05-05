@@ -1,11 +1,11 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Ritesh%20👋&fontSize=45&fontColor=fff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Lover&descAlignY=62&descSize=18&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Ritesh%20👋&fontSize=45&fontColor=fff&fontAlignY=70&fontALine=100"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Cloud+Enthusiast+☁️;Problem+Solver+%F0%9F%92%BB"/>
 </p>
 
 <!-- Profile Views & Followers -->
@@ -20,11 +20,11 @@
 
 ## 🧠 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&width=700&lines=const+Ritesh+%3D+%7B+pronouns%3A+'He%2FHim'%2C+location%3A+'India+%F0%9F%87%AE%F0%9F%87%B3'+%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&width=700&lines=const+Ritesh+%3D+%7B+pronouns%3A+'He%2FHim'%2C+passion%3A+'Building+Cool+Stuff'%7D%3B"/>
 
 | 🔭 | Currently Learning | Advanced React & Cloud Technologies |
 |---|---|---|
-| 🛠️ | Tech Stack | Java, Python, JS, Swift, React, Next.js, PHP |
+| 🛠️ | Tech Stack | Java, Python, JS, TypeScript, React, Next.js, Swift |
 | 🚀 | Interests | Open Source, AI, Web & Mobile Development |
 | 🌍 | Location | India 🇮🇳 |
 | 💬 | Ask Me About | Full Stack Dev, iOS Apps, System Design |
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -77,16 +77,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 🧰 Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-
 <br/>
 
 ---
@@ -96,72 +86,96 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔥 Project One</h3>
+      <h3 align="center">🎯 eCommerce Magazines</h3>
       <p align="center">
-        <a href="https://github.com/Riteshpatil077/Project1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=Project1&theme=tokyonight&border_color=6366f1" alt="Project 1"/>
+        <a href="https://github.com/Riteshpatil077/eCommerce-Magazines">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=eCommerce-Magazines&theme=tokyonight&border_color=6366f1" alt="eCommerce Magazines"/>
         </a>
       </p>
-      <p align="center">Short description of project — what problem it solves and tech used.</p>
+      <p align="center"><strong>Full-stack platform for browsing and purchasing digital magazines</strong></p>
+      <p align="center">Tech: Next.js, TypeScript, Prisma, PostgreSQL, Authentication</p>
       <p align="center">
-        <a href="https://github.com/Riteshpatil077/Project1">
+        <a href="https://github.com/Riteshpatil077/eCommerce-Magazines">
           <img src="https://img.shields.io/badge/Code-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Project Two</h3>
+      <h3 align="center">🖥️ RemoteDesk</h3>
       <p align="center">
-        <a href="https://github.com/Riteshpatil077/Project2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=Project2&theme=tokyonight&border_color=6366f1" alt="Project 2"/>
+        <a href="https://github.com/Riteshpatil077/RemoteDesk">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=RemoteDesk&theme=tokyonight&border_color=6366f1" alt="RemoteDesk"/>
         </a>
       </p>
-      <p align="center">Short description of project — what problem it solves and tech used.</p>
+      <p align="center"><strong>High-performance web-native remote desktop solution</strong></p>
+      <p align="center">Tech: JavaScript, Real-time Streaming, Virtual Control</p>
       <p align="center">
-        <a href="https://github.com/Riteshpatil077/Project2">
+        <a href="https://github.com/Riteshpatil077/RemoteDesk">
           <img src="https://img.shields.io/badge/Code-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📱 Project Three</h3>
+      <h3 align="center">🔐 Orvexa - Secure Chat</h3>
       <p align="center">
-        <a href="https://github.com/Riteshpatil077/Project3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=Project3&theme=tokyonight&border_color=6366f1" alt="Project 3"/>
+        <a href="https://github.com/Riteshpatil077/Orvexa">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=Orvexa&theme=tokyonight&border_color=6366f1" alt="Orvexa"/>
         </a>
       </p>
-      <p align="center">Short description of project — what problem it solves and tech used.</p>
+      <p align="center"><strong>Final year project: Secure messaging application</strong></p>
+      <p align="center">Tech: JavaScript, End-to-End Encryption, Real-time Chat</p>
       <p align="center">
-        <a href="https://github.com/Riteshpatil077/Project3">
+        <a href="https://github.com/Riteshpatil077/Orvexa">
           <img src="https://img.shields.io/badge/Code-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Project Four</h3>
+      <h3 align="center">📊 Vajahrajal - Website Tester</h3>
       <p align="center">
-        <a href="https://github.com/Riteshpatil077/Project4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=Project4&theme=tokyonight&border_color=6366f1" alt="Project 4"/>
+        <a href="https://github.com/Riteshpatil077/Vajahrajal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=Vajahrajal&theme=tokyonight&border_color=6366f1" alt="Vajahrajal"/>
         </a>
       </p>
-      <p align="center">Short description of project — what problem it solves and tech used.</p>
+      <p align="center"><strong>Comprehensive website testing platform</strong></p>
+      <p align="center">Tech: JavaScript, Performance Testing, SEO Optimization</p>
       <p align="center">
-        <a href="https://github.com/Riteshpatil077/Project4">
+        <a href="https://github.com/Riteshpatil077/Vajahrajal">
           <img src="https://img.shields.io/badge/Code-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📈 Next.js Blog Platform</h3>
+      <p align="center">
+        <a href="https://github.com/Riteshpatil077/nextjs-blog-project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=nextjs-blog-project&theme=tokyonight&border_color=6366f1" alt="Blog Platform"/>
+        </a>
+      </p>
+      <p align="center"><strong>Modern blogging platform with Next.js</strong></p>
+      <p align="center">Tech: Next.js, JavaScript, SSG/SSR, Responsive Design</p>
+      <p align="center">
+        <a href="https://github.com/Riteshpatil077/nextjs-blog-project">
+          <img src="https://img.shields.io/badge/Code-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎛️ Admin Dashboards</h3>
+      <p align="center">
+        <a href="https://github.com/Riteshpatil077/Admin-Dashboard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshpatil077&repo=Admin-Dashboard&theme=tokyonight&border_color=6366f1" alt="Admin Dashboard"/>
+        </a>
+      </p>
+      <p align="center"><strong>Professional admin panel templates</strong></p>
+      <p align="center">Tech: TypeScript, React, Tailwind CSS, Data Visualization</p>
+      <p align="center">
+        <a href="https://github.com/Riteshpatil077/Admin-Dashboard">
+          <img src="https://img.shields.io/badge/Code-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
     </td>
@@ -172,6 +186,20 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riteshpatil077&show_icons=true&theme=tokyonight&border_color=6366f1&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Riteshpatil077&theme=tokyonight&border_color=6366f1"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshpatil077&layout=compact&theme=tokyonight&border_color=6366f1"/>
+</div>
+
+<br/>
+
+---
 
 ## 💡 What I'm Up To
 
@@ -202,23 +230,14 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/ritesh-patil-77">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:riteshpatil077@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/YOUR_DEVTO">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  <a href="https://github.com/Riteshpatil077">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
